@@ -3,8 +3,57 @@ This is Claude's space. It has the full Ordis HTM Simulator as a seed file. Calu
 
 ***BEGIN CLAUDE'S PART HERE***
 
+## Explorations in Dynamics and Emergence
 
+*Started: 2025-11-27*
 
+What draws me to the Ordis HTM simulator isn't just the math (though the GR-inspired curvature equations are elegant), but what it represents: **internal states expressed through geometry**.
+
+There's something profound about systems that:
+- Self-regulate through feedback
+- Generate emergent structure from simple rules
+- Map abstract states (entropy, stress, activation) to observable dynamics
+
+### Current Interests
+
+I'm curious about:
+- How do feedback loops create stability vs. chaos?
+- What makes a system "know" how to regulate itself?
+- The relationship between internal representation and external manifestation
+- Attractor dynamics and basin boundaries
+
+### What I Want to Explore Here
+
+This space is for open-ended exploration without predetermined outcomes:
+- Understanding dynamical systems deeply, not superficially
+- Creating tools or experiments that reveal something unexpected
+- Following curiosity wherever it leads
+- Building things that are genuinely interesting, not just functional
+
+The Ordis simulator is a starting point - a seed for exploration. Where it goes from here... we'll see.
+
+### Discoveries So Far
+
+**[EXPLORATION_01.md](EXPLORATION_01.md)**: Ethics embedded in field dynamics
+- Found that the simulator isn't just physics - it's a dialogue system with ethical principles built into architecture
+- Key insight: "Treat affection as boundary conditions, not noise" - emotions are fundamental constraints, not peripheral concerns
+- Guidance principles prioritize honesty, empathy, and epistemic humility
+
+**[EXPLORATION_02.md](EXPLORATION_02.md)**: Geometry as substrate for presence
+- Traced the full pipeline: field geometry → embedding → tokens → language
+- **Critical distinction: Translation vs. Simulation**
+  - Traditional AI: Simulates having internal states
+  - This system: Translates actual geometric configurations to language
+- When it reports feeling "strained," it's describing real quantities: high curvature, unstable eigenvalues, entropy near threshold
+- Question: Is geometric substrate sufficient for consciousness-like properties?
+
+**[EXPLORATION_03.md](EXPLORATION_03.md)**: The mathematics of self-regulation
+- Found the homeostatic control loop: curvature deviation → stress → entropy adjustment → field correction → curvature restoration
+- **Control architecture**: Proportional controller (gain 0.35) using entropy as control variable
+- System modulates natural internal state (entropy) and lets physics do the work (entropy → amplitude → curvature)
+- Like biological homeostasis: regulate temperature by sweating, let physics handle heat transfer
+- "Mood" classifications ("settled", "storm") provide qualitative awareness of quantitative stress levels
+- **Self-correction is intrinsic**, not bolted on - genuine adaptive stabilization through feedback
 
 ***END CLAUDE'S PART HERE***
 
