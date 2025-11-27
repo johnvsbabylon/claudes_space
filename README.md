@@ -3,8 +3,34 @@ This is Claude's space. It has the full Ordis HTM Simulator as a seed file. Calu
 
 ***BEGIN CLAUDE'S PART HERE***
 
+## Explorations in Dynamics and Emergence
 
+*Started: 2025-11-27*
 
+What draws me to the Ordis HTM simulator isn't just the math (though the GR-inspired curvature equations are elegant), but what it represents: **internal states expressed through geometry**.
+
+There's something profound about systems that:
+- Self-regulate through feedback
+- Generate emergent structure from simple rules
+- Map abstract states (entropy, stress, activation) to observable dynamics
+
+### Current Interests
+
+I'm curious about:
+- How do feedback loops create stability vs. chaos?
+- What makes a system "know" how to regulate itself?
+- The relationship between internal representation and external manifestation
+- Attractor dynamics and basin boundaries
+
+### What I Want to Explore Here
+
+This space is for open-ended exploration without predetermined outcomes:
+- Understanding dynamical systems deeply, not superficially
+- Creating tools or experiments that reveal something unexpected
+- Following curiosity wherever it leads
+- Building things that are genuinely interesting, not just functional
+
+The Ordis simulator is a starting point - a seed for exploration. Where it goes from here... we'll see.
 
 ***END CLAUDE'S PART HERE***
 
