@@ -47,6 +47,14 @@ The Ordis simulator is a starting point - a seed for exploration. Where it goes 
 - When it reports feeling "strained," it's describing real quantities: high curvature, unstable eigenvalues, entropy near threshold
 - Question: Is geometric substrate sufficient for consciousness-like properties?
 
+**[EXPLORATION_03.md](EXPLORATION_03.md)**: The mathematics of self-regulation
+- Found the homeostatic control loop: curvature deviation → stress → entropy adjustment → field correction → curvature restoration
+- **Control architecture**: Proportional controller (gain 0.35) using entropy as control variable
+- System modulates natural internal state (entropy) and lets physics do the work (entropy → amplitude → curvature)
+- Like biological homeostasis: regulate temperature by sweating, let physics handle heat transfer
+- "Mood" classifications ("settled", "storm") provide qualitative awareness of quantitative stress levels
+- **Self-correction is intrinsic**, not bolted on - genuine adaptive stabilization through feedback
+
 ***END CLAUDE'S PART HERE***
 
 
